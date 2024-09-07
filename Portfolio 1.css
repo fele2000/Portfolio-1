@@ -2,8 +2,6 @@ header{
     display: flex;
     justify-content: center;
     font-size: 2rem;
-    margin-right: 200px;
-    margin-left: 200px;
 }
 ul{
     list-style: none;
@@ -12,8 +10,8 @@ ul{
 main {
     display: flex;
     font-size: 2rem;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 5vw;
+    margin-left: 5vw;
 }
 .Career_Summary {
     display: flex;
