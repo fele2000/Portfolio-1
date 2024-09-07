@@ -5,8 +5,13 @@
     font-size: 2rem;
 }
 
-.Pfp_div img {
-   width:30px;
+.Pfp_Div {
+    display: flex;
+    justify-content: center;
+}
+
+.Pfp_Div img {
+    width: 100px;
 
 }
 
