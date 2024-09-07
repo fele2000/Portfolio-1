@@ -3,6 +3,14 @@
     justify-content: center;
     align-items: center;
     font-size: 2rem;
+    height: 2.5rem;
+    margin-top: 1rem;
+}
+
+.Header_Occupation{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1.2rem;
 }
 
 .Pfp_Div {
