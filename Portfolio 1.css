@@ -1,8 +1,15 @@
-header{
+.Header_Name{
     display: flex;
     justify-content: center;
+    align-items: center;
     font-size: 2rem;
 }
+
+.Pfp_div img {
+   width:30px;
+
+}
+
 ul{
     list-style: none;
 }
