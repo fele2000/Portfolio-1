@@ -66,9 +66,14 @@ main {
     font-size: 1.2rem;
     margin-bottom: 2rem;
 }
+/* My attempt to make the Employer text go in the rop right corner, right under 'Latest Experience'
+.Experience ul {
+    display: flex;
+    flex-direction: column;
+}
 
 .Experience ul li div {
     display: flex;
-    justify-content: flex-end;
-    height: 2rem;
+    align-items: flex-start;
 }
+*/
