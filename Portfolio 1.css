@@ -25,6 +25,7 @@
 
 .Pfp_Div img {
     width: 100px;
+    margin-top: 1rem;
 
 }
 
@@ -46,6 +47,7 @@
 }
 .Github_Link{
     text-decoration: none;
+    margin-left: 0.44rem;
 }
 
 ul{
@@ -54,11 +56,15 @@ ul{
 
 main {
     display: flex;
+    flex-direction: column;
     font-size: 1.5rem;
-    margin-right: 5vw;
-    margin-left: 5vw;
+    margin-right: 10vw;
+    margin-left: 10vw;
 }
-.Career_Summary {
-    display: flex;
-    justify-content: flex-start;
+
+
+
+.Career_Description {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
 }
