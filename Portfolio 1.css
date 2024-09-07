@@ -3,14 +3,19 @@
     justify-content: center;
     align-items: center;
     font-size: 2rem;
-    height: 2.5rem;
+    height: 2rem;
     margin-top: 1rem;
 }
 
 .Header_Occupation{
     display: flex;
     justify-content: flex-start;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
+    height: 3rem;
+}
+
+.Header_Occupation p{
+    margin-left: 1rem;
 }
 
 .Pfp_Div {
@@ -21,6 +26,26 @@
 .Pfp_Div img {
     width: 100px;
 
+}
+
+.Header_Communication_List ul li {
+   align-items: center;
+    display: flex;
+    height: 2rem;
+}
+
+.Header_Communication_List ul li p {
+    display: inline-block;
+    margin-left: 0.5rem;
+}
+
+.Header_Communication_List ul li img{
+    width: 1.5rem;
+    mix-blend-mode: multiply;
+    float: left;
+}
+.Github_Link{
+    text-decoration: none;
 }
 
 ul{
